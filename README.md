@@ -13,4 +13,4 @@ List1.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%2
 Offer.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20182830.png
 ReverseClass.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20183205.png
 StringHandlingDemo.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20190345.png
-
+Q1.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20191931.png
