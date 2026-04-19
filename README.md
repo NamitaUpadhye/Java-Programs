@@ -20,3 +20,5 @@ Q4.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%2020
 Q5.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20203616.png
 Capitalize.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20204336.png
 Q7.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20204621.png
+
+Q9.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20204922.png
