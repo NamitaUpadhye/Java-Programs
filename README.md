@@ -6,3 +6,4 @@ MapInterfaceDemo.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/S
 Colorsearch.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20145708.png
 Remove.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20150740.png
 RemoveClass.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20151742.png
+Sortcolors.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20152306.png
