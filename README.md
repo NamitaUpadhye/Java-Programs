@@ -24,3 +24,4 @@ Q8.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%2020
 Q9.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20204922.png
 SwingExample.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20205640.png
 ButtonExample.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20210246.png
+TabbedPane.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20212020.png
