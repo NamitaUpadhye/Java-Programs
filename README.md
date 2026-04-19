@@ -14,3 +14,4 @@ Offer.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%2
 ReverseClass.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20183205.png
 StringHandlingDemo.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20190345.png
 Q1.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20191931.png
+q2.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20202508.png
