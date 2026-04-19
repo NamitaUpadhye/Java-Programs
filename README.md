@@ -15,3 +15,4 @@ ReverseClass.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Scree
 StringHandlingDemo.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20190345.png
 Q1.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20191931.png
 Q2.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20202508.png
+Q3.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20202842.png
