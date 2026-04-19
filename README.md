@@ -26,3 +26,4 @@ SwingExample.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Scree
 ButtonExample.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20210246.png
 TabbedPane.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20212020.png
 CountryListDemo.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20212731.png
+TabbedPaneDemo.java:https://github.com/NamitaUpadhye/Java-Programs/blob/main/Screenshot%202026-04-19%20213600.png
